@@ -11,8 +11,6 @@ redirect_from:
 
 <iframe src="/images/Resume_Mathieu_Molina.pdf" width="600px" height="800px" />
 
-  
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
