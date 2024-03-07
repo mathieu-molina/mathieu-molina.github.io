@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="images/Resume_Mathieu_Molina.pdf" width="800px" height="2100px" />
+<embed src="/images/Resume_Mathieu_Molina.pdf" width="800px" height="2100px" />
+
   
 
 Publications
