@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<embed src="https://drive.google.com/file/d/1E0IRJiM0tsv2D-ILDbF7_zDcBnI9CKJ_/view?usp=sharing" width="500" height="375">
+
 
 Education
 ======
