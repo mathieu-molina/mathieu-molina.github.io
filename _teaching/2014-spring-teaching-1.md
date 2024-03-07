@@ -1,3 +1,3 @@
 ---
-title: "Teaching assistant for 'Data Science' course at Mines Paris, 2021 and 2022"
+title: "Teaching assistant for 'Data Science' course at Mines Paris, 2022 and 2023"
 ---
