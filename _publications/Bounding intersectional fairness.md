@@ -2,7 +2,7 @@
 title: "Bounding and Approximating Intersectional Fairness through Marginal Fairness"
 collection: publications
 permalink: /publication/bounding-intersectional-fairness
-date: 2022
+date: 2022-01-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2206.05828'
 authors: '<strong> Mathieu Molina </strong>, Patrick Loiseau'
