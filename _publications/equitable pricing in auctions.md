@@ -2,7 +2,7 @@
 title: "Equitable Pricing in Auctions"
 collection: publications
 permalink: /publication/equitable-pricing-in-auctions
-date: 2024
+date: 2024-01-01
 venue: 'Working paper'
 authors: 'Simon Finster^*, Patrick Loiseau, Simon Mauras^*, <strong>Mathieu Molina^*</strong>, Bary Pradelski'
 ---
