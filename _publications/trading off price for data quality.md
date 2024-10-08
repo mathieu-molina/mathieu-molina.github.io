@@ -5,5 +5,5 @@ permalink: /publication/trading-off-price-for-fair-allocation
 date: 2023-01-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2306.13440'
-citation: '<strong> Mathieu Molina </strong>, Nicolas Gast, Patrick Loiseau, Vianney Perchet'
+citation: '<strong> Mathieu Molina <sup>*</sup></strong>, Nicolas Gast, Patrick Loiseau, Vianney Perchet'
 ---
