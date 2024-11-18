@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/images/Resume_Mathieu_Molina.pdf" width="800px" height="900px" />
+<embed src="/images/Resume_Mathieu_Molina_new.pdf" width="800px" height="900px" />
 
   
 Teaching
