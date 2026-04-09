@@ -1,5 +1,5 @@
 ---
-title: "The Price of Fairness in Bipartite Matching"
+title: "The Price of Opportunity Fairness in Matroid Allocation Problems"
 collection: publications
 permalink: /publication/price-of-fairness-bipartite-matching
 date: 2025-01-01
