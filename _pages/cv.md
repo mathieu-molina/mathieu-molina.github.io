@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF)](/files/mathieu_molina_resume.pdf)
 
-<embed src="/images/Resume_Mathieu_Molina_new.pdf" width="800px" height="900px" />
-
-  
-Teaching
-======
-  Teaching assistant for ‘Data Science’ course at Mines Paris, 2022, 2023 and 2024 
+<embed
+  src="/files/Mathieu_Molina_CV.pdf"
+  width="100%"
+  height="1000px"
+  type="application/pdf"
+/>
