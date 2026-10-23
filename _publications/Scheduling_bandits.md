@@ -5,5 +5,5 @@ permalink: /publication/scheduling_bandits
 date: 2023-01-01
 venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2205.15695' 
-citation: 'Nadav Merlis, Hugo Richard, Flore Sentenac, Corentin Odic, <strong>Mathieu Molina</strong>, Vianney Perchet'
+citation: 'with Nadav Merlis, Hugo Richard, Flore Sentenac, Corentin Odic, Vianney Perchet'
 ---
