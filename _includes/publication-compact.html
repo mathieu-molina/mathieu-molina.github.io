@@ -1,0 +1,23 @@
+<article class="publication">
+  <p class="publication__title">
+    <strong>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </strong>
+  </p>
+
+  <p class="publication__authors">{{ post.citation }}.</p>
+
+  <p class="publication__details">
+    <strong>{{ post.venue }} {{ post.date | date: "%Y" }}</strong>
+    {% if post.paperurl %}
+      · <a href="{{ post.paperurl }}">Paper</a>
+    {% endif %}
+    {% if post.award %}
+      · {{ post.award }}
+    {% endif %}
+  </p>
+</article>
