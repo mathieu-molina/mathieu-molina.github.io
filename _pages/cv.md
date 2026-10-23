@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](/files/mathieu_molina_resume.pdf)
+[Download my CV (PDF)](/files/MathieuMolinaCV.pdf)
 
 <embed
   src="/files/MathieuMolinaCV.pdf"
