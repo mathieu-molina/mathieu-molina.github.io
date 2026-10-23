@@ -39,3 +39,60 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Compact publications */
+.publications-compact {
+  .publication {
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .publication__title {
+    margin-bottom: 0.15rem;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+
+  .publication__title a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Direct contact link */
+.author__content .author__contact {
+  margin-top: 0.6rem;
+}
+
+/* Larger portrait on mobile */
+@media (max-width: 924px) {
+  div.author__avatar {
+    width: 120px;
+  }
+
+  .author__avatar img {
+    display: block;
+    width: 120px;
+    height: 120px;
+    max-width: none;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .author__content {
+    vertical-align: middle;
+    padding-left: 15px;
+    padding-right: 0;
+  }
+}
