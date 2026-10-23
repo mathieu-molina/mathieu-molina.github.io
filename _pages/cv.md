@@ -10,7 +10,7 @@ redirect_from:
 [Download my CV (PDF)](/files/mathieu_molina_resume.pdf)
 
 <embed
-  src="/files/Mathieu_Molina_CV.pdf"
+  src="/files/MathieuMolinaCV.pdf"
   width="100%"
   height="1000px"
   type="application/pdf"
